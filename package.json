@@ -9,7 +9,7 @@
     "build:ehretriever": "bun run ./scripts/build-ehretriever.ts"
   },
   "dependencies": {
-    "@google/genai": "^0.8.0",
+    "@google/genai": "^0.15.0",
     "@google/generative-ai": "^0.24.0",
     "@modelcontextprotocol/sdk": "^1.0.1",
     "@radix-ui/react-icons": "^1.3.2",
